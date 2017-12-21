@@ -64,3 +64,5 @@ deploy.zip
 .tmp/
 
 espn/
+
+.tern-project
